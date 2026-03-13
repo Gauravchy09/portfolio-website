@@ -24,4 +24,4 @@ git commit -m $Message
 git push origin main
 
 Write-Host "Published. GitHub Actions will deploy static-folio to Pages."
-Write-Host "Expected URL: https://gauravchy09.github.io/portfolio-website/"
+Write-Host "Expected URL: https://gauravchoudhary.me/"
